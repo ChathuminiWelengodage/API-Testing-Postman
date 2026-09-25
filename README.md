@@ -324,15 +324,6 @@ Through this project, I practiced:
 
 ---
 
-## 👩‍💻 Author
-
-**Chathumini Welengodage**
-
-Information Systems Undergraduate  
-Sabaragamuwa University of Sri Lanka
-
----
-
 ## ⭐ Project Summary
 
 This project demonstrates a practical approach to **REST API testing and test automation using Postman**, including API request execution, automated response validation, positive and negative testing, test documentation, and collection-level test execution.
